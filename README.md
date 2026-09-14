@@ -44,15 +44,11 @@ projects, hackathons, and continuous learning.
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-`Machine Learning` `Artificial Intelligence` `NLP` `CNN` `MobileNetV2`
-
 ### 🛠️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,flutter" />
 </p>
-
-`SQL` `Google Colab` `NumPy` `Pandas`
 
 ---
 
@@ -64,14 +60,6 @@ projects, hackathons, and continuous learning.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vummalreddysnehitha&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vummalreddysnehitha&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -90,6 +78,7 @@ projects, hackathons, and continuous learning.
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/snehitha-reddy-v-52734832a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -98,9 +87,10 @@ projects, hackathons, and continuous learning.
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://github.com/vummalreddysnehitha">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome" />
   </a>
+
 </p>
 
 ---
