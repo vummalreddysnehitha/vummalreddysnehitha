@@ -5,7 +5,6 @@
 🎓 **Chaitanya Bharathi Institute of Technology (CBIT)**  
 📍 Hyderabad, Telangana, India  
 📧 **vummalreddysnehitha@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/snehitha-reddy-v-52734832a/)
 
 ---
 
@@ -95,7 +94,7 @@ projects, hackathons, and continuous learning.
 
 ---
 
-### 💬 Quote
+### 💬 
 
 > "Build with purpose, learn with curiosity, and grow with consistency."
 
