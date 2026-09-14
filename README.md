@@ -1,12 +1,18 @@
+<div align="center">
+
 # Hi, I'm Snehitha Reddy 👋
 
 ### Computer Science & Engineering Student | AI/ML Enthusiast | Web Developer | Problem Solver
 
 🎓 **Chaitanya Bharathi Institute of Technology (CBIT)**  
 📍 Hyderabad, Telangana, India  
-📧 **vummalreddysnehitha@gmail.com**  
+📧 **vummalreddysnehitha@gmail.com**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 👩‍💻 About Me
 
@@ -21,83 +27,97 @@ Data Structures & Algorithms, Web Development, and Software Development**.
 I enjoy building practical, scalable, and data-driven solutions through  
 projects, hackathons, and continuous learning.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ⚡ Tech I Use
 
 ### 💻 Programming Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart" />
-</p>
 
 ### 🌐 Web Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,react,vue,nodejs,mongodb" />
-</p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
 
 ### 🛠️ Tools & Technologies
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,flutter" />
-</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vummalreddysnehitha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vummalreddysnehitha&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vummalreddysnehitha&theme=tokyonight&hide_border=true" />
-</p>
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=vummalreddysnehitha&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🧠 Currently
 
-- 🔭 Building **AI/ML and full-stack projects**
-- 🌱 Learning and improving **Data Structures & Algorithms**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- 🌐 Developing skills in **Web Development**
-- 💻 Improving my **software development skills**
-- 🚀 Building practical and scalable solutions
+🔭 Building **AI/ML and full-stack projects**  
+🌱 Learning and improving **Data Structures & Algorithms**  
+🤖 Exploring **Artificial Intelligence and Machine Learning**  
+🌐 Developing skills in **Web Development**  
+💻 Improving my **software development skills**  
+🚀 Building practical and scalable solutions
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<br>
 
-  <a href="https://www.linkedin.com/in/snehitha-reddy-v-52734832a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/snehitha-reddy-v-52734832a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-  <a href="mailto:vummalreddysnehitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+&nbsp;&nbsp;
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome" />
-  </a>
+<a href="mailto:vummalreddysnehitha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
-</p>
+&nbsp;&nbsp;
 
----
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome" />
+</a>
 
-### 💬 
-
-> "Build with purpose, learn with curiosity, and grow with consistency."
+</div>
 
 ---
+
+<div align="center">
+
+### 💬
+
+> *"Build with purpose, learn with curiosity, and grow with consistency."*
+
+<br>
 
 ⭐ **Thanks for visiting my profile!**
+
+</div>
