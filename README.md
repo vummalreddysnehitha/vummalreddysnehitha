@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 👩‍💻 About Me
 
@@ -31,7 +31,7 @@ projects, hackathons, and continuous learning.
 
 ---
 
-<div align="center">
+<div>
 
 ## ⚡ Tech I Use
 
@@ -55,7 +55,7 @@ projects, hackathons, and continuous learning.
 
 ---
 
-<div align="center">
+<div>
 
 ## 📊 GitHub Activity
 
@@ -69,7 +69,7 @@ projects, hackathons, and continuous learning.
 
 ---
 
-<div align="center">
+<div>
 
 ## 🧠 Currently
 
