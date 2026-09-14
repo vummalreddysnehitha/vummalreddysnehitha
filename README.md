@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Snehitha Reddy 👋
 
-<!--
-**vummalreddysnehitha/vummalreddysnehitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student | AI/ML Enthusiast | Web Developer | Problem Solving
 
-Here are some ideas to get you started:
+🎓 **Chaitanya Bharathi Institute of Technology (CBIT)**  
+📍 Hyderabad, Telangana, India  
+📧 **vummalreddysnehitha@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/snehitha-reddy-v-52734832a/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I'm a third-year Computer Science and Engineering student at  
+Chaitanya Bharathi Institute of Technology with a **CGPA of 9.50/10**.
+
+I'm passionate about **Artificial Intelligence, Machine Learning,  
+Data Structures & Algorithms, and Software Development**.
+
+🏆 **Winner – Smart India Hackathon (SIH) 2025** in the Smart Education domain.
+
+I enjoy building practical, scalable, and data-driven solutions through  
+projects, hackathons, and continuous learning.
+
+---
